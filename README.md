@@ -31,7 +31,8 @@ cd automated-data-cleaning-quality-tool
 
 #Step 2: Install Dependencies
 
-pip install -r requirements.txt
+pip install pandas
+pip install streamlit
 
 #Step 3: Run Streamlit App
 
