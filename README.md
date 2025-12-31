@@ -24,11 +24,15 @@ A Streamlit-based web application that automates data cleaning for CSV and Excel
 
 ## How to Run
 #Step 1: Clone the Repository
-git clone https://github.com/yourusername/automated-data-cleaning-quality-tool.git
+
+git clone https://github.com/kartikkumar127/automated-data-cleaning-quality-tool.git
+
 cd automated-data-cleaning-quality-tool
 
 #Step 2: Install Dependencies
+
 pip install -r requirements.txt
 
 #Step 3: Run Streamlit App
+
 streamlit run app.py
