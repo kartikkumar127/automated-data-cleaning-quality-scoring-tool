@@ -1,4 +1,4 @@
-# Automated-data-cleaning-quality-scoring-tool
+# Automated-Data-Cleaning-Quality-Scoring-Tool
 A Streamlit-based web application that automates data cleaning for CSV and Excel files and provides a **data quality score** before and after cleaning.
 
 ## Features
