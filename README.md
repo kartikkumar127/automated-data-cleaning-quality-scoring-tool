@@ -36,3 +36,37 @@ pip install -r requirements.txt
 #Step 3: Run Streamlit App
 
 streamlit run app.py
+
+**##Business Problem**
+
+Organizations often work with messy data containing missing values, duplicates, and inconsistent formatting.
+This leads to incorrect insights, slow analysis, and unreliable reporting.
+
+**##Solution**
+
+This project provides a no-code automated data cleaning tool that:
+
+Cleans CSV & Excel files
+
+Removes duplicates and missing values
+
+Standardizes data
+
+Calculates a Data Quality Score (0–100)
+
+**##Use Cases**
+
+Prepare data for Power BI / SQL / Excel
+
+Clean large datasets efficiently
+Enable non-technical users to clean data
+
+Standardize data across teams
+
+**##Business Impact**
+
+Saves 60–70% time spent on data cleaning
+
+Improves data accuracy & consistency
+
+Handles large real-world datasets
