@@ -1,6 +1,5 @@
 # Automated-Data-Cleaning-Quality-Scoring-Tool
-A Streamlit-based web application that automates data cleaning for CSV and Excel files and provides a **data quality score** before and after cleaning.
-
+A Streamlit-based Python application that helps users clean CSV & Excel files automatically, generate data quality KPIs, and download cleaned datasets — no coding required.
 ## Features
 - Upload multiple CSV / Excel files
 - Remove missing values & duplicates
