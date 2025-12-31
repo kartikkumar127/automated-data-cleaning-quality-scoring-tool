@@ -37,12 +37,12 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-**##Business Problem**
+## Business Problem
 
 Organizations often work with messy data containing missing values, duplicates, and inconsistent formatting.
 This leads to incorrect insights, slow analysis, and unreliable reporting.
 
-**##Solution**
+## Solution
 
 This project provides a no-code automated data cleaning tool that:
 
@@ -54,7 +54,7 @@ Standardizes data
 
 Calculates a Data Quality Score (0–100)
 
-**##Use Cases**
+## Use Cases
 
 Prepare data for Power BI / SQL / Excel
 
@@ -63,7 +63,7 @@ Enable non-technical users to clean data
 
 Standardize data across teams
 
-**##Business Impact**
+## Business Impact
 
 Saves 60–70% time spent on data cleaning
 
